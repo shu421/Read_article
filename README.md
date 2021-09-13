@@ -1,4 +1,4 @@
-# Read_paper
+# Read_article
 
 - 論文をまとめておくリポジトリ
 - issueで管理しています。
